@@ -1,5 +1,3 @@
-Certainly! Below is a `README.md` file that explains everything about your project. This file will be placed in the root of your repository and will provide an overview of your project, how to install and use it, as well as other relevant information.
-
 ```markdown
 # My Portfolio
 
